@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Beef Bone-In Premium",
+        "image":"https://i.postimg.cc/XqntgHJW/Beef-Bone-In-Premium.webp",
+        "price":"$120"
+    },
+    {
+        "name":"Beef Keema",
+        "image":"https://i.postimg.cc/8P50PrfZ/Beef-Keema.webp",
+        
+        "price":"$199"
+    },
+    {
+        "name":"Broiler Chicken Without Skin",
+        "image":"https://i.postimg.cc/kXphVXxq/Broiler-Chicken-Without-Skin.webp",
+        
+        "price":"$200"
+    },
+    {
+        "name":"Mutton Premium",
+        "image":"https://i.postimg.cc/L8gQjKTf/Mutton-Premium.webp",
+        
+        "price":"$190"
+    },
+    {
+        "name":"Peking Duck",
+        "image":"https://i.postimg.cc/SK0TrTTP/Peking-Duck.webp",
+       
+        "price":"$150"
+    },
+    {
+        "name":"Bagda Chingri Medium Size",
+        "image":"https://i.postimg.cc/90j1PrLq/Bagda-Chingri-Medium-Size.webp",
+    
+        "price":"$160"
+    }
+]
